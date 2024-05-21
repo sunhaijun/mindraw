@@ -1,2 +1,19 @@
-1. local dev
-  yarn start
+Commands:
+
+yarn
+Install the dependencies
+
+yarn start
+Run the project
+
+yarn fix
+Reformat all files with Prettier
+
+yarn test
+Run tests
+
+yarn test:update
+Update test snapshots
+
+yarn test:code
+Test for formatting with Prettier
